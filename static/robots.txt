@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nsd-highpublic.ceo-suo.com/sitemap.txt
