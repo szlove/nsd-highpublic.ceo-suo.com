@@ -1,6 +1,6 @@
 baseURL = 'https://nsd-highpublic.ceo-suo.com/'
 languageCode = 'ko-KR'
-title = '낙성대 하이퍼블릭 에르: ER'
+title = '낙성대 하이퍼블릭 에르 할인 정보'
 
 [params]
   isAdsEnabled = true
