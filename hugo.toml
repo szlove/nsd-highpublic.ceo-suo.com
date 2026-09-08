@@ -7,11 +7,11 @@ title = '낙성대 하이퍼블릭 에르 할인 정보'
   adsTelegramId = "ggyuvely"
 
   description = '관악구 낙성대동에서 여럿이 함께할 넓은 자리를 찾는 손님들이 종종 향하는 곳이 하이퍼블릭 에르입니다. 퍼블릭이라는 기본 형태에서 방과 응대 인원을 한층 넉넉하게 잡아 놓은 것이 하이퍼블릭이라는 구분이고, 에르도 이 틀을 따라 인원이 많아도 서로 부딪히지 않을 공간을 갖추고 있습니다. 처음 방문하는 일행이라도 자리 안내를 받는 순간 규모부터 다르다는 인상을 받는 경우가 많고, 넓은 공간 배치 덕분에 대화 소리가 옆 테이블로 묻히지 않는 편입니다.'
-  author = '두리'
+  author = '에르'
   datePublished = "2026-08-18T08:10:00+09:00"
   dateModified = "2026-08-18T08:10:00+09:00"
   [params.store]
-	tel = "010-8306-5747"
+	tel = "010-7456-5410"
   location = "낙성대"
 	locationEn = "NSD"
   name = "에르"
@@ -20,8 +20,8 @@ title = '낙성대 하이퍼블릭 에르 할인 정보'
 	category = "하이퍼블릭"
 	categoryEn = "Highpublic"
 	categoryIs = "는"
-	address = "서울 관악구"
-	googleMapSrc = "https://www.google.com/maps?q=서울+관악구&output=embed"
+	address = "서울 관악구 봉천동"
+	googleMapSrc = "https://www.google.com/maps?q=서울+관악구+봉천동&output=embed"
 
 enableRobotsTXT = false
 cleanDestinationDir = true
